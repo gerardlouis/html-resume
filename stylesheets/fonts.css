@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Flexo-CapsDEMO';
+    src: url('assets/fonts/Flexo-CapsDEMO-webfont.woff2') format('woff2'),
+         url('assets/fonts/Flexo-CapsDEMO-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
